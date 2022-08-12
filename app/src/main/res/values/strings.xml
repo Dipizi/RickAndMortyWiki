@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RickAndMorty</string>
+    <string name="error_message">Что-то пошло не так</string>
+    <string name="try_again">Попробовать ещё раз</string>
+    <string name="name">Имя: %1$s</string>
+    <string name="status">Статус: %1$s</string>
+    <string name="gender">Гендер: %1$s</string>
+    <string name="episodes">%1$s - %2$s</string>
+    <string name="species">Биологический вид: %1$s</string>
+    <string name="statusAlive">Alive</string>
+    <string name="statusDead">Dead</string>
+    <string name="statusUnknown">Unknown</string>
+    <string name="series_with_person">Список серий, с участием персонажа:</string>
+</resources>
